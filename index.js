@@ -22,27 +22,27 @@ app.get("/", (req, res) => {
     <div>
     <ul>
     <li>
-    <h3><code style="background-color:#9AD0C2">GET:</code> Use the endpoint <code style="background-color:#9AD0C2">/hallapi/roominfo</code> to get the All Room Details</h3>
+    <h3><code style="background-color:#9AD0C2">GET:</code> Use the endpoint <code style="background-color:#9AD0C2">https://hallbooking-0too.onrender.com/hallapi/roominfo</code> to get the All Room Details</h3>
     </li>
 
     <li>
-    <h3><code style="background-color:#9AD0C2">POST:</code> Change the endpoint<code style="background-color:#9AD0C2">/hallapi/createroom</code> to Create a New Room</h3>
+    <h3><code style="background-color:#9AD0C2">POST:</code> Change the endpoint <code style="background-color:#9AD0C2">https://hallbooking-0too.onrender.com/hallapi/createroom</code> to Create a New Room</h3>
     </li>
 
     <li>
-    <h3><code style="background-color:#9AD0C2">POST:</code> Change the endpoint<code style="background-color:#9AD0C2">/hallapi/bookroom</code> to Book a New Room</h3>
+    <h3><code style="background-color:#9AD0C2">POST:</code> Change the endpoint <code style="background-color:#9AD0C2">https://hallbooking-0too.onrender.com/hallapi/bookroom</code> to Book a New Room</h3>
     </li>
 
     <li>
-    <h3><code style="background-color:#9AD0C2">GET:</code> Change the endpoint<code style="background-color:#9AD0C2">/hallapi/bookedroomdata</code> to retrieve all the Booked Room Data</h3>
+    <h3><code style="background-color:#9AD0C2">GET:</code> Change the endpoint <code style="background-color:#9AD0C2">https://hallbooking-0too.onrender.com/hallapi/bookedroomdata</code> to retrieve all the Booked Room Data</h3>
     </li>
 
     <li>
-    <h3><code style="background-color:#9AD0C2">GET:</code> Change the endpoint<code style="background-color:#9AD0C2">/hallapi/customersbookeddata</code> to retrieve all the Customers Booked Room Data</h3>
+    <h3><code style="background-color:#9AD0C2">GET:</code> Change the endpoint <code style="background-color:#9AD0C2">https://hallbooking-0too.onrender.com/hallapi/customersbookeddata</code> to retrieve all the Customers Booked Room Data</h3>
     </li>
 
     <li>
-    <h3><code style="background-color:#9AD0C2">GET:</code> Change the endpoint<code style="background-color:#9AD0C2">/hallapi/customerbookingcount</code> to retrieve Booking Counts and Room Data for Booked Customers</h3>
+    <h3><code style="background-color:#9AD0C2">GET:</code> Change the endpoint <code style="background-color:#9AD0C2">https://hallbooking-0too.onrender.com/hallapi/customerbookingcount</code> to retrieve Booking Counts and Room Data for Booked Customers</h3>
     </li>
 
     </ul> 
