@@ -46,6 +46,10 @@ app.get("/", (req, res) => {
     </li>
 
     </ul> 
+    <button style="background-color:#9AD0C2; padding:2px; width:100px; border-radius:10px; cursor:pointer;">
+    <a style="text-decoration:none;" href="https://github.com/sudharshan1903/hallbooking/blob/main/Readme.md" target="_blank">READ ME</a>
+</button>
+
     </div>
     
     </body>
